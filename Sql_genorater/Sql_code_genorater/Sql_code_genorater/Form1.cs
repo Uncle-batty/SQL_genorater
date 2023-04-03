@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -31,6 +32,38 @@ namespace Sql_code_genorater
         private void btn_insert_Click(object sender, EventArgs e)
         {
             Gb_insert.Visible= true;
+           
+        }
+
+        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void btn_gen_insert_Click(object sender, EventArgs e)
+        {
+            DialogResult result = openFileDialog1.ShowDialog();
+
+            string filepath = openFileDialog1.FileName;
+            StreamReader reader = new StreamReader(File.OpenRead(filepath));
+            string table_name = "";
+            string SQL = "INSERT INTO " + table_name + "\n VALUES";
+            List<string> listA = new List<string>();
+            while (!reader.EndOfStream)
+            {
+                var line = reader.ReadLine();
+                var values = line.Split(',');
+                foreach (var item in values)
+                {
+                    listA.Add(item);
+                }
+                foreach (var coloumn1 in listA)
+                {
+                    SQL = SQL + "('" + coloumn1.Trim() + "',";
+                }
+                SQL = SQL + "),";
+            }
+            
         }
     }
 }
