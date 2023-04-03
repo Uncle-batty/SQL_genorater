@@ -9,3 +9,14 @@ C:\Users\batty\Downloads\Repos\Sql_genorater\Sql_code_genorater\Sql_code_genorat
 C:\Users\batty\Downloads\Repos\Sql_genorater\Sql_code_genorater\Sql_code_genorater\obj\Debug\Sql_code_genorater.csproj.CoreCompileInputs.cache
 C:\Users\batty\Downloads\Repos\Sql_genorater\Sql_code_genorater\Sql_code_genorater\obj\Debug\Sql_code_genorater.exe
 C:\Users\batty\Downloads\Repos\Sql_genorater\Sql_code_genorater\Sql_code_genorater\obj\Debug\Sql_code_genorater.pdb
+C:\Users\batty\Downloads\SQL_genorater\Sql_genorater\Sql_code_genorater\Sql_code_genorater\bin\Debug\Sql_code_genorater.exe.config
+C:\Users\batty\Downloads\SQL_genorater\Sql_genorater\Sql_code_genorater\Sql_code_genorater\bin\Debug\Sql_code_genorater.exe
+C:\Users\batty\Downloads\SQL_genorater\Sql_genorater\Sql_code_genorater\Sql_code_genorater\bin\Debug\Sql_code_genorater.pdb
+C:\Users\batty\Downloads\SQL_genorater\Sql_genorater\Sql_code_genorater\Sql_code_genorater\obj\Debug\Sql_code_genorater.csproj.AssemblyReference.cache
+C:\Users\batty\Downloads\SQL_genorater\Sql_genorater\Sql_code_genorater\Sql_code_genorater\obj\Debug\Sql_code_genorater.csproj.SuggestedBindingRedirects.cache
+C:\Users\batty\Downloads\SQL_genorater\Sql_genorater\Sql_code_genorater\Sql_code_genorater\obj\Debug\Sql_code_genorater.Form1.resources
+C:\Users\batty\Downloads\SQL_genorater\Sql_genorater\Sql_code_genorater\Sql_code_genorater\obj\Debug\Sql_code_genorater.Properties.Resources.resources
+C:\Users\batty\Downloads\SQL_genorater\Sql_genorater\Sql_code_genorater\Sql_code_genorater\obj\Debug\Sql_code_genorater.csproj.GenerateResource.cache
+C:\Users\batty\Downloads\SQL_genorater\Sql_genorater\Sql_code_genorater\Sql_code_genorater\obj\Debug\Sql_code_genorater.csproj.CoreCompileInputs.cache
+C:\Users\batty\Downloads\SQL_genorater\Sql_genorater\Sql_code_genorater\Sql_code_genorater\obj\Debug\Sql_code_genorater.exe
+C:\Users\batty\Downloads\SQL_genorater\Sql_genorater\Sql_code_genorater\Sql_code_genorater\obj\Debug\Sql_code_genorater.pdb
